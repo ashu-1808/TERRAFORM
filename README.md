@@ -81,7 +81,7 @@ provider "aws {
 terraform init
 ````
 
-![image](https://github.com/user-attachments/assets/83c85698-f5b9-43b7-80fe-85ecb229cd8a)
+![Terraform Workflow](https://raw.githubusercontent.com/ashu-1808/TERRAFORM/386685e15c85ba19c2e047c49754f928c14a6b11/azure-terraform-workflow-2.png)
 
 # Topic
 
